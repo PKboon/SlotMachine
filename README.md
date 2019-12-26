@@ -13,7 +13,7 @@ Bank $1000\
 Player $1000\
 ![Screen Shot 2019-12-25 at 6 42 03 PM](https://user-images.githubusercontent.com/51871643/71451581-79550e00-2747-11ea-895a-a9f3139ca422.png)
 
-## Player loses 1 dollar to the Bank every turn
+## Player loses 1 dollar to the Bank every spin
 ![Screen Shot 2019-12-25 at 6 53 39 PM](https://user-images.githubusercontent.com/51871643/71451605-e36db300-2747-11ea-805e-55e965a3e0b0.png)
 
 ## Win!
