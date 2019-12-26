@@ -1,5 +1,5 @@
 # SlotMachine
-Kitten Slot Machine
+### Kitten Slot Machine (JavaFX)
 
 * A slot machine program that display three wheels containing images, a SPIN button and a QUIT button
 * The program has music background that indefinitely plays
